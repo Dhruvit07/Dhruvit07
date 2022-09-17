@@ -100,7 +100,7 @@
 </table>
 
 ## 🏆GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvit07 alt="Dhruvit Salat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvit07" alt="Dhruvit Salat" /></a> </p>
 
 
 ![](https://komarev.com/ghpvc/?username=dhruvit07)
