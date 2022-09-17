@@ -16,13 +16,14 @@
   
 ## 🌐Socials
 
- <div>
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-    <a href="https://linkedin.com/in/dhruvit-salat"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@salatd0852"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"></a>
-    </div>
-  ### Coding Platforms 
- <div>
+  <div>
+    <a href="https://linkedin.com/in/dhruvit-salat"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://medium.com/@salatd0852"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  </div>
+    
+ ### Coding Platforms 
+  
+  <div>
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
