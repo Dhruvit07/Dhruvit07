@@ -8,17 +8,22 @@
 <br />
 ## 💫About Me :
 
-- I am <strong>Dhruvika Sharma</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
+- I am <strong>Dhruvit Salat</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
 
-- I love using these technologies to build unique projects. You can check my Technical Blogs [here](https://medium.com/@https://medium.com/@dhruvikasharma20) where I explain the whole workflow of my projects in detail.
+- I love using these technologies to build unique projects. You can check my Blogs [here](https://medium.com/@salatd0852) in detail.
 
-### What I'm doing:
+## What I'm doing:
+  
 - 🔭 I've Completed 3 years Diploma in Computer Science and Engineering(CSE) from The Maharaja Sayajirao University of Baroda. 
 - 🔭 I’m 3rd year student in CSE at Parul University.
 - 🌱 I’m currently learning MERN STACK.
 - 👯 I’m looking to collaborate on open source project based on php.
 - 📫 How to reach me: salatd0852@gmail.com
+  
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvit-salat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@salatd0852)
 
+  
 </p>
   <p align="center"> 
   <b>Visitor count</b><br>
