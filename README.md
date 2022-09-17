@@ -6,6 +6,11 @@
 ### Hi there 👋, I'm [Dhruvit Salat!](https://dhruvit07.github.io)
 ![](https://komarev.com/ghpvc/?username=dhruvit07)
 <br />
+  <p> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/dhruvit07/count.svg" />  
+</p>
+
 ## 💫About Me :
 
 - I am <strong>Dhruvit Salat</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
@@ -22,18 +27,6 @@
   
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvit-salat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@salatd0852)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
-  
-</p>
-  <p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/dhruvit07/count.svg" />
-     
-</p>
  
 
 <h2 align="center">
@@ -61,9 +54,9 @@ Technologies and Languages </h2>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  
-  
-  
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
   
  
