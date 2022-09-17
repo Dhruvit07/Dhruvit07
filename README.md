@@ -1,15 +1,4 @@
-<div>
-  <div align="right">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
-  </div>
-
 ### Hi there 👋, I'm [Dhruvit Salat!](https://dhruvit07.github.io)
-![](https://komarev.com/ghpvc/?username=dhruvit07)
-<br />
-  <p> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/dhruvit07/count.svg" />  
-</p>
 
 ## 💫About Me :
 
@@ -28,9 +17,15 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvit-salat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@salatd0852)
  
+  ### Coding Platforms 
+ <div>
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </div>
 
-<h2 align="center">
-Technologies and Languages </h2>
+
+### Technologies
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -53,6 +48,13 @@ Technologies and Languages </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvit07&no-frame=true&row=1&column=7&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=10" alt="Thekrushna" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://komarev.com/ghpvc/?username=dhruvit07)
+<br />
+<p> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/dhruvit07/count.svg" />  
+</p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
