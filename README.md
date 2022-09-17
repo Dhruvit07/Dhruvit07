@@ -45,8 +45,6 @@ Technologies and Languages </h2>
 ![PHP](https://img.shields.io/badge/PHP-7A86B8?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-ff0a02?style=flat-square&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstap-712cf9?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -54,6 +52,8 @@ Technologies and Languages </h2>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 
+### 🏆GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvit07&no-frame=true&row=1&column=7&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=10" alt="Thekrushna" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
