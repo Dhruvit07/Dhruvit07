@@ -72,24 +72,39 @@
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   </div>
   
-### Technologies
+## Extras
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+## GitHub Status
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=dhruvit07&show_icons=true&theme=github_dark&hide_border=true" width="400px" height="180px" >
+    </td>
+    <td align="center">
+        <img src ="https://github-readme-streak-stats.herokuapp.com?user=dhruvit07&theme=github_dark&hide_border=true" width="400px" height="180px">
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvit07&layout=compact&hide_border=true&theme=github_dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+    </td>
+      <td>
+        <img src="https://activity-graph.herokuapp.com/graph?username=dhruvit07&theme=react-dark" width="400px" height="180px">
+      </td>
+  </tr>
+</table>
 ### 🏆GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvit07&no-frame=true&row=1&column=7&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=10" alt="Thekrushna" /></a> </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=dhruvit07)
-<br />
-<p> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/dhruvit07/count.svg" />  
-</p>
+<img src="https://profile-counter.glitch.me/dhruvit07/count.svg" />  
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
