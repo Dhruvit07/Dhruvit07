@@ -1,16 +1,17 @@
-### Hi there 👋
-
-### 👩‍💻 [Dhruvit07](https://dhruvit07.github.io) 
-![](https://komarev.com/ghpvc/?username=dhruvit07)
-<br />
-
 <div>
   <div align="right">
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
   </div>
 
-### Hi there 👋, I'm Dhruvit Salat!
-  
+### Hi there 👋, I'm [Dhruvit Salat!](https://dhruvit07.github.io)
+![](https://komarev.com/ghpvc/?username=dhruvit07)
+<br />
+## 💫About Me :
+
+- I am <strong>Dhruvika Sharma</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
+
+- I love using these technologies to build unique projects. You can check my Technical Blogs [here](https://medium.com/@https://medium.com/@dhruvikasharma20) where I explain the whole workflow of my projects in detail.
+
 ### What I'm doing:
 - 🔭 I've Completed 3 years Diploma in Computer Science and Engineering(CSE) from The Maharaja Sayajirao University of Baroda. 
 - 🔭 I’m 3rd year student in CSE at Parul University.
