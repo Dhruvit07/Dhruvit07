@@ -17,6 +17,7 @@
 ## 🌐Socials
 
  <div>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     <a href="https://linkedin.com/in/dhruvit-salat"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@salatd0852"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"></a>
     </div>
