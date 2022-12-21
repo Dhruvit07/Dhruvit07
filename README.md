@@ -3,7 +3,7 @@
 
 ## 💫About Me :
 
-- I am <strong>Dhruvit Salat</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
+- I am <strong>Dhruvit Salat</strong> a Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
 
 - I love using these technologies to build unique projects. You can check my Blogs [here](https://medium.com/@salatd0852) in detail.
 
