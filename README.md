@@ -11,7 +11,7 @@
   
 - 🔭 I've Completed 3 years Diploma in Computer Science and Engineering(CSE) from The Maharaja Sayajirao University of Baroda. 
 - 🔭 I’m 3rd year student in CSE at Parul University.
-- 🌱 I’m currently learning MERN STACK.
+- 🌱 I’m currently learning MERN STACK + BlockChain.
 - 👯 I’m looking to collaborate on open source project based on Laravel/PHP, ReactJS/JavaScript or C++.
 - 📫 How to reach me: salatd0852@gmail.com
   
