@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm [Dhruvit Salat!](https://dhruvit07.github.io)
 ![](https://komarev.com/ghpvc/?username=dhruvit07)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=dhruvit07&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
+
 
 ## 💫About Me :
 
