@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm [Dhruvit Salat!](https://dhruvit07.github.io)
 ![](https://komarev.com/ghpvc/?username=dhruvit07)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=dhruvit07&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
 
 ## 💫About Me :
@@ -104,6 +103,8 @@
 
 ## 🏆GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvit07&no-frame=true&row=1&column=7&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=10" alt="Dhruvit Salat" /></a> </p>
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=dhruvit07&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
