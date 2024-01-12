@@ -11,7 +11,7 @@
 ## What I'm doing:
   
 - 🔭 I've completed 3 years Diploma in computer science and engineering (CSE) from The Maharaja Sayajirao University of Baroda. 
-- 🔭 Currently 4th year student in CSE at Parul University + Backend Developer Intern at Zylu
+- 🔭 Currently 4th year student in CSE at Parul University + Software Developer Intern at Zylu
 - 🌱 I’m currently learning MERN + BlockChain and Flutter.
 - 👯 I’m looking to collaborate on open source project based on Laravel/PHP, ReactJS/JavaScript or C++.
 - 📫 How to reach me: salatd0852@gmail.com
